@@ -39,7 +39,7 @@ fue el más rápido, sacrificando un poco de precisión.
 A continuación, ejemplos visuales de las predicciones realizadas:
 - YOLOv8n → detección rápida con precisión aceptable
 <img width="2400" height="1200" alt="results" src="https://github.com/user-attachments/assets/2a52bbaf-b7b8-486e-9495-a871bb619168" />
-<img width="1058" height="598" alt="image" src="https://github.com/user-attachments/assets/6be67a86-3a59-43cb-9da6-be3a48ef9968" />
+<img width="1057" height="607" alt="image" src="https://github.com/user-attachments/assets/c4f423e4-b526-46ea-9302-084f50e1f800" />
 <img width="3000" height="2250" alt="confusion_matrix_normalized" src="https://github.com/user-attachments/assets/65c6ec92-8cf0-4cb9-87f7-fc0ba78f30b9" />
 
 - YOLOv8s → balance en detección
